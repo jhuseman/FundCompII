@@ -1,0 +1,1 @@
+This lab assignment is to demonstrate the use of object-oriented programming and templating in a sudoku puzzle implementation.  The lab is also a simple introduction to the use of GitHub as a source code repository, uploading these files to GitHub using git.
